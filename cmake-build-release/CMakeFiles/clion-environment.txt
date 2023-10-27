@@ -1,0 +1,4 @@
+ToolSet: 16.0 (local)@D:\DevelopmentTool\Virtual Studio 2019\IDE
+Options: msvc.arch=amd64
+
+Options:-DCMAKE_MAKE_PROGRAM=D:/DevelopmentTool/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe
