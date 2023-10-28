@@ -105,6 +105,6 @@ int main(int argc, const char * argv[]) {
         os.close();
     }
 
-    printf("Dumped to %s\n", filepath.c_str());
+    logger("Dumped to %s\n", filepath.c_str());
     return 0;
 }
